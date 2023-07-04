@@ -1,5 +1,27 @@
-.wrapper {
-    width: 90%;
+.input-wrapper {
+    margin-top: 30px;
+    margin-bottom: 30px;
     display: flex;
     justify-content: center;
+}
+
+
+.input-group {
+    width: 40%;
+
+}
+
+
+.wrapper {
+
+    display: flex;
+    justify-content: center;
+}
+
+.table {
+    width: 70%;
+}
+
+span {
+    cursor: pointer;
 }
